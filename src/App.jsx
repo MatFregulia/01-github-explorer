@@ -1,5 +1,5 @@
-export function App() {
-    throw new Error("Eita Gionava, o forninho caiu")
+import './styles/global.css';
 
+export function App() {
     return <h1>Hello ReactJs!</h1>
 }
